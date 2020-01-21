@@ -19,7 +19,7 @@ hr {
   }
 
 .btn {
-background-color: rgb(250, 71, 71);
+background-color: blue;
 border-color: white;
 }
 
@@ -34,6 +34,6 @@ border-color: white;
     width: 500px;
   }
 
-#keanu {
-  color: rgb(241, 24, 9);
+#disneyprince {
+  color: yellow;
 }
