@@ -1,63 +1,63 @@
 var friends = [
     {
-        name: "Ted Theodore Logan",
+        name: "Prince Florian",
         photo:
-            "http://www.billandted.org/photos/merchandise/tedpostersmall.jpg",
-        scores: [5, 1, 1, 1, 1, 2, 5, 3, 4, 5]
+            "https://vignette.wikia.nocookie.net/disney/images/4/43/Profile_-_The_Prince.png/revision/latest?cb=20190312150050",
+        scores: [3, 4, 5, 5, 4, 1, 5, 1, 5, 3]
     },
     {
-        name: "Johnny Utah",
+        name: "Prince Charming",
         photo:
-            "https://cdn1.thr.com/sites/default/files/imagecache/640x960/2011/05/pointbreaka_a_p.jpg",
-        scores: [3, 2, 5, 2, 2, 4, 3, 4, 1, 5]
+            "https://vignette.wikia.nocookie.net/disney/images/e/ec/Profile_-_Prince_Charming.png/revision/latest?cb=20190312150814",
+        scores: [4, 3, 5, 5, 3, 1, 5, 1, 5, 5]
     },
     {
-        name: "Johnathan Harker",
+        name: "Prince Philip",
         photo:
-            "https://i.pinimg.com/originals/42/02/4e/42024efadde8c5991a96cb0b41beb8fc.jpg",
-        scores: [3, 2, 4, 3, 3, 4, 5, 3, 4, 3]
+            "https://vignette.wikia.nocookie.net/disney/images/8/86/Profile_-_Prince_Phillip.png/revision/latest?cb=20190312121844",
+        scores: [3, 3, 5, 5, 2, 2, 5, 1, 5, 3]
     },
     {
-        name: "Don John",
+        name: "Prince Eric",
         photo:
-            "https://i.redd.it/yilx5lss4qd11.jpg",
-        scores: [5, 3, 5, 2, 3, 2, 3, 4, 5, 2]
+            "https://vignette.wikia.nocookie.net/disney/images/f/f1/Profile_-_Prince_Eric.jpeg/revision/latest?cb=20190312045000",
+        scores: [4, 5, 5, 5, 4, 3, 5, 2, 5, 5]
     },
     {
-        name: "Jack Traven",
+        name: "Prince Adam",
         photo:
-            "https://d1t80wr11ktjcz.cloudfront.net/wp-content/uploads/2019/06/speed2.jpg",
-        scores: [3, 2, 5, 1, 2, 5, 2, 3, 1, 2]
+            "https://i.pinimg.com/originals/cf/22/ae/cf22ae53058a8780ed0878c034de56f5.jpg",
+        scores: [2, 4, 3, 5, 1, 1, 5, 3, 5, 2]
     },
     {
-        name: "Paul Sutton",
+        name: "Aladdin",
         photo:
-            "https://cdn10.bigcommerce.com/s-x8dfmo/products/4968/images/28025/Keanu-Reeves-in-A-Walk-in-the-Clouds-Premium-Photograph-and-Poster-1016304__07957.1432422673.1280.1280.jpg?c=2",
-        scores: [4, 2, 5, 3, 4, 3, 3, 5, 4, 2]
+            "https://vignette.wikia.nocookie.net/disney/images/b/bb/Profile_-_Aladdin.png/revision/latest?cb=20190829033153",
+        scores: [5, 4, 5, 1, 5, 4, 1, 5, 1, 5]
     },
     {
-        name: "Neo/Thomas Anderson",
+        name: "John Smith",
         photo:
-            "https://img.cinemablend.com/filter:scale/quill/f/0/d/6/f/a/f0d6fa136474a5dd86240eec1d04c60fcbfbf079.jpg?mw=600",
-        scores: [4, 1, 2, 1, 1, 4, 3, 1, 1, 3]
+            "https://foxhugh.files.wordpress.com/2016/10/pocahontas-john-smith.jpg?w=452",
+        scores: [5, 3, 3, 1, 1, 3, 4, 3, 1, 3]
     },
     {
-        name: "Julian Mercer",
+        name: "Prince Naveen",
         photo:
-            "https://66.media.tumblr.com/1c86bda0d8706b8cb354e95d01b3b5c0/tumblr_pp2mp56y7n1xfylffo2_1280.jpg",
-        scores: [3, 5, 5, 4, 4, 3, 4, 1, 4, 2]
+            "https://bookprincessreviews.files.wordpress.com/2018/02/naveen.jpg?w=584",
+        scores: [3, 3, 3, 1, 5, 3, 3, 4, 1, 3]
     },
     {
-        name: "Alex Wyler",
+        name: "Eugene",
         photo:
-            "https://www.superiorpics.com/movie_pictures/mp/2006_The_Lake_House/2006_the_lake_house_029.jpg",
-        scores: [3, 5, 4, 5, 5, 2, 3, 3, 4, 3]
+            "https://i.pinimg.com/originals/7f/1d/64/7f1d641d8ace36e2d3a9ac89c7f33e92.jpg",
+        scores: [5, 2, 3, 1, 1, 5, 2, 5, 1, 2]
     },
     {
-        name: "John Wick",
+        name: "Kristoff",
         photo:
-            "https://www.digitalspy.com/movies/a29414019/john-wick-spin-off-ballerina-len-wiseman/",
-        scores: [3, 3, 5, 1, 5, 5, 5, 5, 1, 2]
+            "https://imgix.bustle.com/rehost/2016/9/13/0844ddcd-5ba9-4acf-b1bd-1373a1025c75.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70",
+        scores: [4, 5, 4, 1, 1, 5, 4, 4, 1, 2]
     }
 ];
 module.exports = friends;
